@@ -41,7 +41,7 @@
 
 
 ### 태양계 행성 순회 명상
-
+![Func3_Demo.mp4](https://github.com/joun2301/VRMS/blob/ac46e8682f7ef0a5524762e68390a0072cd3d64a/Docs/Demo/Func3_Demo.mp4)
 
 ---
 
