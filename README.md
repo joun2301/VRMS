@@ -25,7 +25,7 @@
 ## ✨ 시스템 구조도
 
 ### 🛠 전체 시스템 구조
-![Overall_Structure.png](https://github.com/joun2301/VRMS/blob/2cc9c12c3f247a5e2c2d0f1ac9fb998a2e2e7f09/Docs/Figures/Overall_Structure.png)
+![Overall_Structure.png](https://github.com/joun2301/VRMS/blob/b72e7695abe4491c4a8b05f83d42aa39056ea84a/Docs/Figures/Overall_Structure.png)
 
 ### 🛠 기능 별 클래스 다이어그램
 ![All_ClassDiagram.png](https://github.com/joun2301/VRMS/blob/04abc7d0abc0451acafe5cc9bbc88f619725d5d3/Docs/Figures/All_ClassDiagram.png)
