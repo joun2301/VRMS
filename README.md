@@ -32,19 +32,6 @@
 
 ---
 
-## ▶️ 기능 별 데모 영상
-
-### 명상 / 호흡 가이드
-
-
-### 가상 친구 캐릭터 상호작용
-
-
-### 태양계 행성 순회 명상
-![Func3_Demo.mp4](https://github.com/joun2301/VRMS/blob/ac46e8682f7ef0a5524762e68390a0072cd3d64a/Docs/Demo/Func3_Demo.mp4)
-
----
-
 ## 👥 개발자
 - **KIT(Kumoh National Institute of Technology), Gumi, Korea**
     - Undergraduate St. **Min-Jun Kim**
